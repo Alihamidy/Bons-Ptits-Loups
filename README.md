@@ -1,6 +1,6 @@
-# KidsCave
+# Bons-Ptits-Loups
 
-This Project is a Nursery Management System. It is developed for the Object Oriented System Development module in Semester 3 of Department of Computer Science and Engineering, University of Moratuwa.
+As part of my studies at AFPA, I had to do a 3-month internship to validate my diploma. I designed the website and the web application for the Association Les Bons P'tits Loups. This association is responsible for looking after children during school periods and school holidays. it's more like a daycare.
 
 ## Getting Started
 
@@ -19,18 +19,18 @@ Notepad++ (or any other Text Editor)
 
 A step by step series of examples that tell you have to get a development env running
 
-Get a copy of the source into your XAMPP\htdocs directory 
+Get a copy of the source into your Wamp or XAMPP
 
 ```
 Open the terminal and run 
-~ cd C:\xampp\htdocs
-~ git clone https://github.com/NadunKulatunge/KidsCave.git
+~ cd C:\wamp64\www
+~ git clone https://github.com/Alihamidy/Bons-Ptits-Loups.git
 ```
 
 After getting a copy of the website, install the databases
 
 ```
-Database Name: kidscave
+Database Name: lbpl
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
@@ -46,22 +46,7 @@ Add additional notes about how to deploy this on a live system
 * [MYSQL](https://www.mysql.com/) - Database management system
 * [PHP](http://php.net/) - server-side scripting language 
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/NadunKulatunge/KidsCave) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Authors
 
-* **Nadun Kulatunge** - [NadunKulatunge](https://github.com/NadunKulatunge)
-* **Isuru Chamara** - [icpinto](https://github.com/icpinto)
-* **Jenarthana Jenarthanan** - [Jenarthanan14](https://github.com/Jenarthanan14)
-* **Chanuka Dissanayaka** - [chanukaDissanayaka](https://github.com/chanukaDissanayaka)
-
-See also the list of [contributors](https://github.com/NadunKulatunge/KidsCave/graphs/contributors) who participated in this project.
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
 
